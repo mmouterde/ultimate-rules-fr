@@ -1133,11 +1133,11 @@
       },
       {
         "id": "15.11.",
-        "text": "Si un [joueur](#definitions-joueur) fait un [appel](#definitions-call) puis détermine ensuite que son [appel](#definitions-call) était incorrect, il peut se rétracter en appelant *retracted*. Le compte reprend comme si une trasngression acceptée avait été causée par ce [joueur](#definitions-joueur)."
+        "text": "Si un [joueur](#definitions-joueur) fait un [appel](#definitions-call) puis détermine ensuite que son [appel](#definitions-call) était incorrect, il peut se rétracter en appelant *retracted*. Le compte reprend comme si une transgression acceptée avait été causée par ce [joueur](#definitions-joueur)."
       },
       {
         "id": "15.12.",
-        "text": "Si plusieurs trasngressions se produisent sur la même action ou avant que le [jeu](#definitions-jeu) ne s'arrête, la résolution doit avoir lieu dans l'ordre inverse de la séquence (la transgression plus récente en premier, la plus ancienne en dernier)."
+        "text": "Si plusieurs transgressions se produisent sur la même action ou avant que le [jeu](#definitions-jeu) ne s'arrête, la résolution doit avoir lieu dans l'ordre inverse de la séquence (la transgression plus récente en premier, la plus ancienne en dernier)."
       },
       {
         "id": "15.13.",
@@ -1738,4 +1738,3 @@
     ]
   }
 ]
-
